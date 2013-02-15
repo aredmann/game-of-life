@@ -109,10 +109,10 @@
 				<version>2.7</version>
 			</plugin>
 
-			<!-- <plugin>
+			<plugin>
 				<groupId>org.easyb</groupId>
 				<artifactId>maven-easyb-plugin</artifactId>
-				<version>1.4</version>
+				<version>0.9.7</version>
 				<executions>
 					<execution>
 						<goals>
@@ -126,7 +126,7 @@
 					<easybTestDirectory>src/test/stories</easybTestDirectory>
 					<jvmArguments>-Xmx512m -Dwebdriver.driver=${webdriver.driver}</jvmArguments>
 				</configuration>
-			</plugin> -->
+			</plugin>
 
 			<plugin>
 				<groupId>com.jelastic</groupId>
